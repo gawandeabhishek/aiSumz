@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com/gawandeabhishek")}
+          onClick={() => window.open("https://github.com/gawandeabhishek/aiSumz")}
           className="rounded-full text-lg px-4 py-0.5 bg-slate-900 text-center text-white hover:bg-transparent hover:text-slate-900 hover:border-slate-900 border-transparent border-[0.001rem]"
         >
           Github
